@@ -1,0 +1,2 @@
+# Ignore a pasta node_modules
+db.sqlite3
